@@ -14,6 +14,9 @@ The website is not functional as an ecommerce app. It is a static UI clone creat
 
 ## Preview
 
+<img width="1464" height="879" alt="Screenshot 2026-07-20 at 01 57 18" src="https://github.com/user-attachments/assets/f0878a8c-b0ac-4a07-80e0-01564b72b9c0" />
+
+
 This project includes:
 - a top navigation bar similar to Amazon
 - a secondary panel menu
